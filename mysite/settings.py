@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/2.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.1/ref/settings/
 """
-
+### API KEY PYTHON ANYWHERE 6446bb69ce7e2e5328c9ca12dbc26b3d0d3c8003
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
